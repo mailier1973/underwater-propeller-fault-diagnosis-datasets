@@ -14,7 +14,7 @@ This repository serves as a unified access point for the datasets used in our st
 
 ## Notes
 
-DS-D and DS-E are currently associated with a manuscript under review and are therefore not publicly released at this stage. They will be made publicly available in this repository upon paper acceptance.
+DS-M and DS-D are currently associated with a manuscript under review and are therefore not publicly released at this stage. They will be made publicly available in this repository upon paper acceptance.
 
 ## Contact
 
