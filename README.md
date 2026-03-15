@@ -9,8 +9,8 @@ This repository serves as a unified access point for the datasets used in our st
 | DS-A | `Large_Propeller_Data` | Publicly available | [Cross-Size-Underwater-Propeller-Fault-Diagnosis](https://github.com/mailier1973/Cross-Size-Underwater-Propeller-Fault-Diagnosis) |
 | DS-B | `Small_Propeller_Data` | Publicly available | [Cross-Size-Underwater-Propeller-Fault-Diagnosis](https://github.com/mailier1973/Cross-Size-Underwater-Propeller-Fault-Diagnosis) |
 | DS-C | `black_processed_data.mat` | Publicly available | [GCONV-dataset](https://github.com/mailier1973/GCONV-dataset) ([Release v1.0](https://github.com/mailier1973/GCONV-dataset/releases/tag/v1.0)) |
+| DS-M | To be released in this repository | Not yet public | Will be released upon paper acceptance |
 | DS-D | To be released in this repository | Not yet public | Will be released upon paper acceptance |
-| DS-E | To be released in this repository | Not yet public | Will be released upon paper acceptance |
 
 ## Notes
 
