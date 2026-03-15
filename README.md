@@ -16,8 +16,6 @@ This repository serves as a unified access point for the datasets used in our st
 
 DS-D and DS-E are currently associated with a manuscript under review and are therefore not publicly released at this stage. They will be made publicly available in this repository upon paper acceptance.
 
-During peer review, DS-D and DS-E can be provided to the editor and reviewers upon reasonable request.
-
 ## Contact
 
 For questions regarding dataset access, please open an [Issue](https://github.com/mailier1973/underwater-propeller-fault-diagnosis-datasets/issues) in this repository.
